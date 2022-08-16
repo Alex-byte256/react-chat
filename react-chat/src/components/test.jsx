@@ -1,7 +1,9 @@
+import s from "./style.module.css";
+
 const Test = () => {
   return (
     <div>
-      <p>Its work great work</p>
+      <p className={s.text}>Its work great work</p>
     </div>
   );
 };

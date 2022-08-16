@@ -1,0 +1,7 @@
+.text {
+  display: inline-block;
+  background-color: red;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 10px 40px;
+}
